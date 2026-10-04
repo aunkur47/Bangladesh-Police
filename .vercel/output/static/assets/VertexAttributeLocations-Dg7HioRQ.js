@@ -1,0 +1,1 @@
+function e(e){let t=0;return new Map(e.map(({name:e,count:n})=>{let r=[e,t];return n===16?t+=4:n===9?t+=3:++t,r}))}function t(e){let t=new Map,n=0;return e.forEach(e=>e.forEach(({name:e,count:r})=>{t.set(e,n),r===16?n+=4:r===9?n+=3:++n})),t}function n(e){return t(Array.from(e.values()).map(({layout:e})=>e))}export{n,t as r,e as t};

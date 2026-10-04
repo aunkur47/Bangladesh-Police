@@ -1,0 +1,1 @@
+import{d as e}from"./geometryEngineJSON-f75Img-9.js";function t(t){return(0,e[t.operation])(...t.parameters)}export{t as executeGEOperation};

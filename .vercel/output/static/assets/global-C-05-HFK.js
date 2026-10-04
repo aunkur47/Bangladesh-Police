@@ -1,0 +1,1 @@
+var e={max:`320px`},t={max:`476px`},n={max:`768px`},r={max:`1152px`},i=`12px`,a=`16px`,o=`0.25rem`,s=`0.5rem`;export{i as a,o as c,e as i,n,a as o,t as r,s,r as t};

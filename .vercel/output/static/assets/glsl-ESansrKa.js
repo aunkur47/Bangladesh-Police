@@ -1,0 +1,1 @@
+var e=(e,...t)=>{let n=``;for(let r=0;r<t.length;r++)n+=e[r]+t[r];return n+=e[e.length-1],n};function t(e,t,n=``){return e?t:n}e.int=e=>Math.round(e).toString(),e.float=e=>e.toPrecision(8);export{e as n,t};

@@ -1,0 +1,1 @@
+import{y as e}from"./index-Dyzb8xaH.js";import{t}from"./customElement-CudOSyCr.js";var n=e({Loader:()=>t});export{n as t};

@@ -1,0 +1,1 @@
+import{F as e,d as t,g as n,j as r}from"./runtime-wpvBChjf.js";var i={validationContainer:`validation-container`},a=()=>{},o=({scale:o,status:s,id:c,icon:l,message:u,ref:d})=>e`<div class=${t(i.validationContainer)} ${n(d||a)}><calcite-input-message aria-live=polite .icon=${l} id=${c??r} .scale=${o} .status=${s}>${u}</calcite-input-message></div>`;export{o as t};

@@ -1,0 +1,1 @@
+function e(e){return typeof e==`object`&&!!e&&e.type===`2d`&&e.view2dType===`linkchart`}export{e as t};

@@ -1,0 +1,1 @@
+function e(e){return e&&typeof e==`object`&&`toJSON`in e&&typeof e.toJSON==`function`}export{e as t};

@@ -1,0 +1,1 @@
+import{ht as e}from"./UnitFactory-DBxKvpNU.js";import{a as t,r as n}from"./jsonConverter-2erqFLUe.js";var r=new e;function i(e,i){let a=n(e);return r.execute(a.getGeometry(),t(i),a.getSpatialReference(),null)}export{i as execute};

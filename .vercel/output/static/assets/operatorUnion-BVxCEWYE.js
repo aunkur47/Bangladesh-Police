@@ -1,0 +1,1 @@
+import{t as e}from"./SimpleGeometryCursor-Dxdw8Xu0.js";import"./Point2D-DC7l_cYb.js";import"./Envelope2D-BQt-ay0w.js";import{et as t}from"./UnitFactory-DBxKvpNU.js";var n=new t;function r(e,t,r){return n.execute(e,t,r,null)}function i(t,r){return n.executeMany(new e(t),r,null).next()}function a(){return n.supportsCurves()}export{r as n,a as r,i as t};

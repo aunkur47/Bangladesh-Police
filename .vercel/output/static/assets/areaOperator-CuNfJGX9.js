@@ -1,0 +1,1 @@
+import"./Point-B4BTiBGm.js";import"./apiConverter-tqx7kTSB.js";import{n as e,r as t}from"./areaOperator-C0Rq8qH5.js";export{e as execute,t as supportsCurves};

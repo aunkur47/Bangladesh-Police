@@ -1,0 +1,1 @@
+var e={menuActions:`menu-actions`,menuTooltip:`menu-tooltip`},t={menu:`ellipsis`},n={container:`container`};export{t as n,e as r,n as t};

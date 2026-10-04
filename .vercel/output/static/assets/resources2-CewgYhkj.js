@@ -1,0 +1,1 @@
+var e={menu:`menu`,defaultTrigger:`default-trigger`},t=`calcite-action-menu`,n={button:e=>`${t}-${e}-menu-button`,menu:e=>`${t}-${e}-menu`,action:(e,n)=>`${t}-${e}-action-${n}`},r={tooltip:`tooltip`,trigger:`trigger`},i={menu:`ellipsis`};export{r as i,i as n,n as r,e as t};

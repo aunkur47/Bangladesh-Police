@@ -1,0 +1,1 @@
+import{g as e,h as t}from"./date-D5ClOZ6O.js";var n=class{static{this.instance=new t(`Etc/UTC`)}};function r(t){return t instanceof e?t===n.instance:t?.toString().toLowerCase()===`unknown`}function i(e){return r(e)?n.instance:e}export{i as n,n as r,r as t};

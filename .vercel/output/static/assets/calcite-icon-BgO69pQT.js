@@ -1,0 +1,1 @@
+import{y as e}from"./index-Dyzb8xaH.js";import{t}from"./customElement-BDhRsjul.js";var n=e({Icon:()=>t});export{n as t};

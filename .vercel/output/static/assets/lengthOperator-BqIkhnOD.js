@@ -1,0 +1,1 @@
+import{E as e}from"./Point-B4BTiBGm.js";import{a as t,n}from"./jsonConverter-2erqFLUe.js";function r(r,i={}){let{unit:a}=i,o=t(r).calculateLength2D(),s=n(r);return o&&a&&s&&(o=e(o,s,a)),o}export{r as execute};

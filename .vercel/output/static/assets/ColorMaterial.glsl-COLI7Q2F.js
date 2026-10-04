@@ -1,0 +1,1 @@
+import"./glsl-ESansrKa.js";import"./ShaderBuilder-Cm79-bdb.js";import"./VertexColor.glsl-Cz_xCVnS.js";import{d as e}from"./DefaultLayouts-kJyoH67Z.js";import"./VisualVariables.glsl-Bc3arH7F.js";export{e as build};
