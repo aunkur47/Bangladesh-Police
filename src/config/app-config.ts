@@ -18,7 +18,8 @@ export const APP_CONFIG = {
   defaultAnalyticsGroup: "Crimes",
   rankingRows: 40,
   chartMaxIndicators: 10,
-  arcgisVersion: "4.33",
+  /** Must match installed @arcgis/core major.minor (see package.json). */
+  arcgisVersion: "4.34",
 } as const;
 
 export type AppConfig = typeof APP_CONFIG;
