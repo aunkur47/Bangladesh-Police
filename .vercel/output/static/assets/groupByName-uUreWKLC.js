@@ -1,1 +1,0 @@
-import"./index-p4VH55K1-B8xOF3Nb.js";import{timeZones as e}from"./time-zones-Ld0HyG84.js";async function t(){return e.sort().map(e=>({label:e}))}export{t as groupByName};

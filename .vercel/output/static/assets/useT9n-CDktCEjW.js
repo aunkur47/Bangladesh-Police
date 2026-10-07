@@ -1,1 +1,0 @@
-import{a as e}from"./runtime-wpvBChjf.js";import{n as t}from"./controllers-CrWqbHe6.js";var n=t(e);export{n as t};

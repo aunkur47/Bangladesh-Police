@@ -1,1 +1,0 @@
-var e={brand:`lightbulb`,danger:`exclamationMarkTriangle`,info:`information`,success:`checkCircle`,warning:`exclamationMarkTriangle`};export{e as t};

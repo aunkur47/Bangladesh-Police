@@ -1,1 +1,0 @@
-import{a as e,r as t}from"./jsonConverter-2erqFLUe.js";import{t as n}from"./OperatorIntersects-YS8JQmgQ.js";var r=new n;function i(n,i){let a=t(n);return r.execute(a.getGeometry(),e(i),a.getSpatialReference(),null)}export{i as execute};

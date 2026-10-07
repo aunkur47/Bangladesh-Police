@@ -1,1 +1,0 @@
-import{y as e}from"./mathUtils-CmTL-RkF.js";import{l as t,n}from"./jsxFactory-3b_enpyA.js";import{t as r}from"./globalCss-C3HWDS2m.js";function i({level:e,class:i,...o},s){let c=a(e);return n(`h${c}`,{...o,"aria-level":String(c),class:t(r.heading,i),role:`heading`},s)}function a(t){return e(Math.ceil(t),1,6)}function o(e,t=1){return a(e+t)}export{i as n,o as t};

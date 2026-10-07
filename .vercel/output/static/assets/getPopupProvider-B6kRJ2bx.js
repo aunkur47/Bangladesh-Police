@@ -1,1 +1,0 @@
-var e=Symbol(`popupProvider`);function t(e){return typeof e==`object`&&!!e&&`popupEnabled`in e&&`popupTemplate`in e}function n(t){return!!t&&e in t}function r(t){return n(t)?t[e]:null}export{t as n,r,e as t};

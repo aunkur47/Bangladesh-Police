@@ -1,1 +1,0 @@
-import{y as e}from"./index-Dyzb8xaH.js";import"./calcite-loader-BCbuI-Yl.js";import{t}from"./customElement-J2QsDuzS.js";var n=e({Scrim:()=>t});export{n as t};

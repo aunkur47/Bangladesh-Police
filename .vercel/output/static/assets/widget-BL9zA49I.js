@@ -1,1 +1,0 @@
-import"./jsxFactory-3b_enpyA.js";import"./accessibleHandler-DGf5PaOU.js";function e(e){return e&&typeof e.render==`function`}function t(e){return e&&typeof e.postMixInProperties==`function`&&typeof e.buildRendering==`function`&&typeof e.postCreate==`function`&&typeof e.startup==`function`}export{t as n,e as t};

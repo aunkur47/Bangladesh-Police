@@ -1,1 +1,0 @@
-import{i as e,n as t,r as n,t as r}from"./global-C-05-HFK.js";var i={width:{medium:a(r.max),small:a(t.max),xsmall:a(n.max),xxsmall:a(e.max)}};function a(e){return parseInt(e)}export{i as t};

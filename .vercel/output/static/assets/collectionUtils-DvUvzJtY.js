@@ -1,1 +1,0 @@
-import{r as e}from"./Identifiable-B7Dfcmdt.js";function t(t,n,i=e){return n||=new i,n===t||n.destroyed||(n.removeAll(),r(t)?n.addMany(t):t&&n.add(t)),n}function n(e){return e}function r(e){return e&&(Array.isArray(e)||`items`in e&&Array.isArray(e.items))}export{t as n,n as t};

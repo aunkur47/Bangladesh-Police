@@ -1,1 +1,0 @@
-function e(e){return e.replace(/[\\^$.*+?()[\]{}|]/g,`\\$&`)}function t(e){return typeof e==`symbol`||e instanceof Symbol}function n(e){return e==null?``:r(e)}function r(e){if(typeof e==`string`)return e;if(Array.isArray(e))return e.map(r).join(`,`);if(t(e))return e.toString();let n=e+``;return n===`0`&&Object.is(Number(e),-0)?`-0`:n}function i(t){return e(n(t))}export{i as t};

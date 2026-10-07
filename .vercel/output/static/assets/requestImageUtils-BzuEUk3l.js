@@ -1,1 +1,0 @@
-import{t as e}from"./request-B-YJyIx2.js";async function t(t,n){let{data:r}=await e(t,{responseType:`image`,...n});return r}export{t};

@@ -1,1 +1,0 @@
-import"./calcite-icon-BgO69pQT.js";import{Chip as e}from"./customElement-B3S1mQ7E.js";export{e as Chip};

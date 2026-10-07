@@ -1,1 +1,0 @@
-import{t as e}from"./zscale-VgOZV72y.js";function t(t,n,r){if(!r?.features||!r.hasZ)return;let i=e(r.geometryType,n,t.outSpatialReference);if(i!=null)for(let e of r.features)i(e.geometry)}export{t};

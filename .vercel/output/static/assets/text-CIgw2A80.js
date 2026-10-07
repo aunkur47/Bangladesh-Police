@@ -1,1 +1,0 @@
-import{F as e,d as t}from"./runtime-wpvBChjf.js";var n={textMatch:`text-match`};function r(e){return e.charAt(0).toUpperCase()+e.slice(1)}function i({text:r,pattern:i}){if(!i||!r)return r;let a=r.split(i);return a.length>1&&(a[1]=e`<mark class=${t(n.textMatch)}>${a[1]}</mark>`),a}export{i as n,r as t};

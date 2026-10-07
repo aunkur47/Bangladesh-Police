@@ -1,1 +1,0 @@
-import{y as e}from"./index-Dyzb8xaH.js";import{a as t,c as n}from"./runtime-wpvBChjf.js";var r=e({assetPathChanged:()=>i,getAssetPath:()=>t,setAssetPath:()=>a}),i=!1,a=e=>{i=!0,n(e)};export{r as n,a as r,i as t};

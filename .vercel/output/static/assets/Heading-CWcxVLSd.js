@@ -1,1 +1,0 @@
-import{d as e}from"./runtime-wpvBChjf.js";import{t}from"./keyed-CJRlMv0L.js";import{n,r,t as i}from"./static-DodOP_BY.js";function a(e){return Math.min(Math.max(Math.ceil(e),1),6)}var o=({children:a,...o})=>{let s=o.level?n(`h${o.level}`):i`div`;return t(o.key,r`<${s} class=${e(o.class)}>${a}</${s}>`)};export{a as n,o as t};

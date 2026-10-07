@@ -1,1 +1,0 @@
-import"./config-Nj7ZSLXq.js";import"./Point-B4BTiBGm.js";import"./apiConverter-tqx7kTSB.js";import"./operatorGeneralize-Bw6Edn-6.js";import{i as e,n as t,r as n}from"./generalizeOperator-CZNBc-nr.js";export{e as execute,t as executeMany,n as supportsCurves};

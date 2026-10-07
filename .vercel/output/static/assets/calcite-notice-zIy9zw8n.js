@@ -1,1 +1,0 @@
-import"./calcite-icon-BgO69pQT.js";import{Notice as e}from"./customElement-s1CTWD2q.js";export{e as Notice};

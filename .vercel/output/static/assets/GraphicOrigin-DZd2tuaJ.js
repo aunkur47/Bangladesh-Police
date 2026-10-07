@@ -1,1 +1,0 @@
-import{n as e,ot as t}from"./Accessor-CrzjC-p3.js";import"./config-Nj7ZSLXq.js";import"./promiseUtils-CuvCeJz2.js";var n=Symbol(`getSliceableSymbol`),r=class{};r=t([e(`esri.graphic.GraphicOrigin`)],r);export{n,r as t};

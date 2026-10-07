@@ -1,1 +1,0 @@
-function e(e){return n=>{n.hasOwnProperty(`_delegatedEventNames`)||(n._delegatedEventNames=n._delegatedEventNames?n._delegatedEventNames.slice():[]);let r=n._delegatedEventNames;e=Array.isArray(e)?e:t(e),r.push(...e)}}function t(e){return e.split(`,`).map(e=>e.trim())}export{e as t};

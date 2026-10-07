@@ -1,1 +1,0 @@
-import{t as e}from"./logger-BbORNR8W.js";function t(e){return e===`l`?`m`:`s`}function n(t,n,r){!t[n]&&!t[r]&&e.warn(`[${t.el.localName}] "${n.toString()}" or "${r.toString()}" is required.`)}function r(e){return e.hidden||e.itemHidden}async function i(e){await e.componentOnReady(),await e.updateComplete}export{n as i,t as n,r,i as t};

@@ -1,1 +1,0 @@
-import{t as e}from"./request-B-YJyIx2.js";import{i as t,n,r}from"./utils-DjyDe-FH.js";import{t as i}from"./EditUnitIdentifiersResult-BlWE9RRt.js";async function a(a,o,s){let c=n(a),l={...o.toJSON(),f:`json`},u=t({...c.query,...l}),d=r(u,{...s,method:`post`}),f=`${c.path}/unitIdentifiers/insertGap`,{data:p}=await e(f,d);return i.fromJSON(p)}export{a as insertGap};

@@ -1,1 +1,0 @@
-import{n as e,r as t}from"./index-p4VH55K1-B8xOF3Nb.js";var n=`Global`;function r(e){return t(e).countries.length===0}function i(e){if(r(e))return n;let t=e.indexOf(`/`);return t===-1?e:e.slice(0,t)}function a(t){return e(t)?.id??t}export{i as extractRegion,a as getCountry,n as global};

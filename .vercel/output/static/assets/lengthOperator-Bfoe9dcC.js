@@ -1,1 +1,0 @@
-import{E as e}from"./Point-B4BTiBGm.js";import{t,u as n}from"./apiConverter-tqx7kTSB.js";function r(r,i={}){let{unit:a}=i,o=n(r).calculateLength2D();if(o&&a){let n=t(r);o=e(o,n,a)}return o}var i=Object.freeze(Object.defineProperty({__proto__:null,execute:r,supportsCurves:!0},Symbol.toStringTag,{value:`Module`}));export{r as n,i as t};

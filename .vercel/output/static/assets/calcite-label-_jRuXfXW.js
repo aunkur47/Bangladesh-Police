@@ -1,1 +1,0 @@
-import{Label as e}from"./customElement-BvHUhUNi.js";export{e as Label};

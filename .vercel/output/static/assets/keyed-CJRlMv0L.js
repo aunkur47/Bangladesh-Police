@@ -1,1 +1,0 @@
-import{C as e,b as t,j as n,w as r}from"./runtime-wpvBChjf.js";var i=e(class extends r{constructor(){super(...arguments),this.key=n}render(e,t){return this.key=e,t}update(e,[n,r]){return n!==this.key&&(t(e),this.key=n),r}});export{i as t};

@@ -1,1 +1,0 @@
-import{M as e}from"./promiseUtils-CuvCeJz2.js";function t(t,n){return new Promise((r,i)=>{t.readyState>=HTMLMediaElement.HAVE_CURRENT_DATA?r():(n(e(t,`canplay`,r)),n(e(t,`error`,i)))})}export{t};

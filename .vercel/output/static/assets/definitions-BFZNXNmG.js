@@ -1,1 +1,0 @@
-var e=1e-30,t=16777216,n=1.05,r=1.15,i=1024,a=1<<20,o=.75,s=.75;export{n as a,t as c,s as i,a as n,e as o,o as r,i as s,r as t};
